@@ -3838,7 +3838,7 @@ figcaption {
 }
 
 .color-accent-1 {
-  color: #e7ba58;
+  color: #ffc75b;
 }
 
 .color-secondary-1 {
@@ -4859,7 +4859,7 @@ figcaption {
   color: #fff;
   text-align: center;
   transform-style: preserve-3d;
-  background-color: #2741e0;
+  background-color: #df6690;
   border-radius: 80px;
   justify-content: center;
   padding: 18px 22px;
@@ -4904,7 +4904,7 @@ figcaption {
 
 .btn-primary.white {
   color: #fff;
-  background-color: #1b5ad2;
+  background-color: #df6690ff;
 }
 
 .btn-primary.inside-input {
@@ -7768,11 +7768,11 @@ figcaption {
 }
 
 .text-block {
-  color: #ec7a7f;
+  color: #df6690;
 }
 
 .text-block.over-white {
-  color: #4f95ff;
+  color: #ffc75b;
 }
 
 .text-block.over-grey {
@@ -8201,7 +8201,7 @@ figcaption {
 }
 
 .border-left-accent-1 {
-  border-left: 2.5px solid #4f95ff;
+  border-left: 2.5px solid #df6690ff;
 }
 
 .border-left-accent-1._40px {
@@ -8275,7 +8275,7 @@ figcaption {
 .border-left-item-accent-1 {
   width: 2.5px;
   min-height: 50%;
-  background-color: #4f95ff;
+  background-color: #ffc75b;
   position: absolute;
   top: 50%;
   bottom: 0%;
